@@ -2,6 +2,8 @@
 
 Just add the `.min` to your `.blade.php`, and the template will get minified! (even before rendering)
 
+## Usage
+
 Let's use this file as an example.
 
 ```blade
