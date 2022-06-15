@@ -1,4 +1,4 @@
-# laravel-minified-blade
+# Laravel Minified Blade
 
 This package provides `.min.blade.php` file extension.
 
