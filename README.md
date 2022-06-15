@@ -2,7 +2,7 @@
 
 This package provides `.min.blade.php` file extension.
 
-Just add the `.min` to your `.blade.php`, and the template will get minified! (even before rendering)
+Just add the `.min` to your `.blade.php`, and the template will get minified! ⚡
 
 ## Installation
 
