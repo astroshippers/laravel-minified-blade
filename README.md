@@ -4,6 +4,12 @@ This package provides `.min.blade.php` file extension.
 
 Just add the `.min` to your `.blade.php`, and the template will get minified! (even before rendering)
 
+## Installation
+
+```shell
+composer require osbre/laravel-minified-blade
+```
+
 ## Usage
 
 Let's use this file as an example.
