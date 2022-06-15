@@ -7,7 +7,7 @@ Just add the `.min` to your `.blade.php`, and the template will get minified! âš
 ## Installation
 
 ```shell
-composer require osbre/laravel-minified-blade
+composer require astroshippers/laravel-minified-blade
 ```
 
 ## Usage
