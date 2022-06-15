@@ -1,4 +1,6 @@
-# package provides `.min.blade.php` file extension
+# laravel-minified-blade
+
+This package provides `.min.blade.php` file extension.
 
 Just add the `.min` to your `.blade.php`, and the template will get minified! (even before rendering)
 
