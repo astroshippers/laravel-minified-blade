@@ -2,8 +2,8 @@
 
 namespace AstroShippers\MinifiedBlade\Tests;
 
-use Orchestra\Testbench\TestCase as Orchestra;
 use AstroShippers\MinifiedBlade\MinifiedBladeServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
