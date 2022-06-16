@@ -17,7 +17,6 @@ composer require astroshippers/laravel-minified-blade
 Let's use this file as an example.
 
 ```blade
-// welcome.blade.php
 <div>
     @if($age > 13)
         <p>
